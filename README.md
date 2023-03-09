@@ -2,7 +2,7 @@
 
 An update to the original version coded by Ben Cree and Mateusz Bieniek 
 
-original code and its associated documentation @ https://github.com/bieniekmateusz/Protein-ligand-openmm-workflow/blob/main/protein-ligand-openmm.ipynb
+Original code and its associated documentation @ https://github.com/bieniekmateusz/Protein-ligand-openmm-workflow/blob/main/protein-ligand-openmm.ipynb
 
 
 # To use this workflow:
