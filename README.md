@@ -15,3 +15,5 @@ On command line, execute:
 2) ipython kernel install --name openff --user
 
 3) jupyter notebook  
+
+4) Ensure the kernel uses the right environment - select "openff" in this case.
