@@ -1,0 +1,52 @@
+HETATM    1 CL1  QKW D 401      -4.762   4.495 -90.669  1.00 54.66          CL  
+ANISOU    1 CL1  QKW D 401     6511   7882   6375   -177    102    347      CL  
+HETATM    2  C1  QKW D 401      -4.809   5.734 -91.898  1.00 46.60           C  
+ANISOU    2  C1  QKW D 401     5406   6944   5357   -117     38    523       C  
+HETATM    3  N1  QKW D 401     -10.444   9.296 -96.240  1.00 45.81           N  
+ANISOU    3  N1  QKW D 401     5003   7516   4883    409   -401    636       N  
+HETATM    4  O1  QKW D 401      -6.450   8.707 -95.443  1.00 46.73           O  
+ANISOU    4  O1  QKW D 401     5242   7296   5217    149   -157    999       O  
+HETATM    5  C2  QKW D 401      -5.327   6.969 -91.608  1.00 43.92           C  
+ANISOU    5  C2  QKW D 401     5028   6525   5132    -88    -58    572       C  
+HETATM    6  O2  QKW D 401      -6.191   7.404 -97.278  1.00 49.39           O  
+ANISOU    6  O2  QKW D 401     5530   8045   5187    217    -44    995       O  
+HETATM    7  C3  QKW D 401      -5.415   7.923 -92.654  1.00 46.35           C  
+ANISOU    7  C3  QKW D 401     5284   6884   5440    -29   -108    748       C  
+HETATM    8  C4  QKW D 401      -4.919   7.644 -93.916  1.00 45.81           C  
+ANISOU    8  C4  QKW D 401     5193   6978   5234     -4    -49    880       C  
+HETATM    9  C5  QKW D 401      -5.038   8.636 -95.033  1.00 47.13           C  
+ANISOU    9  C5  QKW D 401     5310   7225   5370     68    -91   1106       C  
+HETATM   10  C6  QKW D 401      -6.872   8.116 -96.581  1.00 45.11           C  
+ANISOU   10  C6  QKW D 401     5003   7352   4786    217   -128    968       C  
+HETATM   11  C7  QKW D 401      -8.307   8.343 -96.856  1.00 42.84           C  
+ANISOU   11  C7  QKW D 401     4678   7172   4425    304   -216    844       C  
+HETATM   12  C8  QKW D 401      -8.905   7.683 -97.909  1.00 44.44           C  
+ANISOU   12  C8  QKW D 401     4827   7657   4398    380   -206    741       C  
+HETATM   13  C9  QKW D 401     -10.266   7.850 -98.135  1.00 45.22           C  
+ANISOU   13  C9  QKW D 401     4872   7879   4429    466   -296    590       C  
+HETATM   14  C10 QKW D 401     -10.990   8.676 -97.306  1.00 45.49           C  
+ANISOU   14  C10 QKW D 401     4908   7753   4620    478   -389    554       C  
+HETATM   15  C11 QKW D 401      -9.125   9.114 -96.036  1.00 44.28           C  
+ANISOU   15  C11 QKW D 401     4861   7205   4757    321   -317    776       C  
+HETATM   16  C12 QKW D 401      -4.386   6.392 -94.151  1.00 44.84           C  
+ANISOU   16  C12 QKW D 401     5092   6959   4986    -29     46    795       C  
+HETATM   17  C13 QKW D 401      -4.337   5.432 -93.160  1.00 45.67           C  
+ANISOU   17  C13 QKW D 401     5259   6978   5115    -85     84    614       C  
+CONECT    1    2
+CONECT    2    1    5   17
+CONECT    3   14   15
+CONECT    4    9   10
+CONECT    5    2    7
+CONECT    6   10
+CONECT    7    5    8
+CONECT    8    7    9   16
+CONECT    9    8    4
+CONECT   10    4    6   11
+CONECT   11   10   12   15
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14    3   13
+CONECT   15    3   11
+CONECT   16    8   17
+CONECT   17    2   16
+END

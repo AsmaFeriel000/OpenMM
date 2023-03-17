@@ -1,0 +1,35 @@
+HETATM    1  N   QKZ   401      -8.561   8.697 -96.820  1.00 56.85           N
+HETATM    2  C   QKZ   401      -5.025   6.885 -92.596  1.00 47.22           C
+HETATM    3  O   QKZ   401      -7.399   6.910 -97.640  1.00 54.33           O
+HETATM    4 CL   QKZ   401      -4.575   6.268 -91.059  1.00 44.23          Cl
+HETATM    5  C1  QKZ   401      -4.417   6.382 -93.747  1.00 42.42           C
+HETATM    6  N1  QKZ   401      -9.999   7.447 -98.256  1.00 65.40           N
+HETATM    7  C2  QKZ   401      -4.805   6.939 -94.952  1.00 44.97           C
+HETATM    8  N2  QKZ   401     -10.816   9.292 -96.817  1.00 65.03           N
+HETATM    9  C3  QKZ   401      -5.789   7.958 -95.010  1.00 45.94           C
+HETATM   10  C4  QKZ   401      -6.180   8.564 -96.318  1.00 48.76           C
+HETATM   11  C5  QKZ   401      -7.412   7.945 -97.001  1.00 49.56           C
+HETATM   12  C6  QKZ   401      -9.822   8.455 -97.347  1.00 61.31           C
+HETATM   13  C7  QKZ   401     -11.291   7.284 -98.656  1.00 70.04           C
+HETATM   14  C8  QKZ   401     -12.367   8.064 -98.186  1.00 69.18           C
+HETATM   15  C9  QKZ   401     -12.070   9.066 -97.257  1.00 68.37           C
+HETATM   16  C10 QKZ   401      -6.361   8.431 -93.861  1.00 46.34           C
+HETATM   17  C11 QKZ   401      -5.982   7.896 -92.624  1.00 46.16           C
+CONECT    2   17    4    5
+CONECT    5    2    7
+CONECT   16   17    9
+CONECT   17   16    2
+CONECT    7    5    9
+CONECT    9   16    7   10
+CONECT   10    9   11
+CONECT   11    3    1   10
+CONECT   12    1    6    8
+CONECT   13    6   14
+CONECT   14   15   13
+CONECT   15    8   14
+CONECT    4    2
+CONECT    1   11   12
+CONECT    6   12   13
+CONECT    8   15   12
+CONECT    3   11
+END
