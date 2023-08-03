@@ -10,7 +10,7 @@ Original code and its associated pdb files used + documentation @ https://github
 On command line, execute:
 
 1) mamba activate openff 
-(openff is name of env where openff and its packages to are found - install any packages here should any import step in this workflow bugs)
+(openff is name of environment where openff and its packages to are found - install any packages here should any import step in this workflow bugs)
 
 2) ipython kernel install --name openff --user
 
